@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Saints new charte[r] written occasionly upon the Quo warrant[o] with some remarques upon the late ryots, &amp;c. / written by an unknown hand.</title>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60111</idno><idno type="EEBO-CITATION">14514877</idno>
+  <idno type="VID">102478</idno>
+  <idno type="EEBO-PROQUEST">2264212678</idno>
+  
+            <idno type="STC">Wing S364</idno>
+            <idno type="STC">ESTC R34577</idno>
+            <idno type="OCLC">14514877</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A60111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102478)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1068:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Saints new charte[r] written occasionly upon the Quo warrant[o] with some remarques upon the late ryots, &amp;c. / written by an unknown hand.</title>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Alex. Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: pages stained and with print show-through.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102478:1"/>
+            <pb facs="tcp:102478:1"/>
+            <p>THE Saints new Charte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Written occasionly upon the QUOWARRANT<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> With some REMARQUES upon the late<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> RYOTS, &amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Written by an unknown Hand.</hi>
+            </p>
+            <q>Rumpatur quisquis rumpitur invidia. <bibl>
+                  <hi>Mart. Epigr.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for ALEX. BANKS. <hi>Anno Domini,</hi> 1683</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:102478:2"/>
+            <pb n="1" facs="tcp:102478:2"/>
+            <head>THE CHARTER, A Comical SATYR.
+<q>
+                  <l>Fire! Fire! Fire! Help, for we're all in Flames!</l>
+                  <l>Pray come, for the good Lords sake of <hi>Three Names!</hi>
+                  </l>
+                  <l>Sons of <hi>Committees,</hi> and <hi>Sequestrators,</hi>
+                  </l>
+                  <l>
+                     <hi>Old Rebels,</hi> and new <hi>Associators;</hi>
+                  </l>
+                  <l>Call the <hi>Cashier'd Officers,</hi> and Justice,</l>
+                  <l>(Whose Mettle like to be eat with Rust is,)</l>
+                  <l>Step to the Synagogue, and <hi>Jenkins</hi> Pew,</l>
+                  <l>Call all the <hi>Gentiles,</hi> and knock up the <hi>Jew;</hi>
+                  </l>
+                  <l>For such curs'd <hi>Wild-fire's</hi> amongst us thrown,</l>
+                  <l>(Worse than the <hi>Jesuits</hi>) 'twill burn's quite down;</l>
+                  <l>A Veng'ance Fire-ball call'd <hi>Quo Warranto,</hi>
+                  </l>
+                  <l>Will bring all our hopes to <hi>Acheronto.</hi>
+                  </l>
+               </q>
+            </head>
+            <lg>
+               <l>AS <hi>Sampson</hi>'s Strength up in his Hair was ty'd,</l>
+               <l>Rebellions Strength was in the <hi>Charter</hi> hid;</l>
+               <l>Late in a <hi>Trumpet</hi> Treason every Punk</l>
+               <l>Could speak; now't must be whisper'd throug<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>Trunk;</hi>
+               </l>
+               <l>By <hi>Charter, Brother Traytor</hi> we could free,</l>
+               <l>Now there's no Priviledge for <hi>Perjury:</hi>
+               </l>
+               <l>Next time my Lord, beware the <hi>Medal-house</hi>
+               </l>
+               <l>Though we'd be damn'd for't, we can't save your souse;</l>
+               <l>We've done as much for you as men could do,</l>
+               <l>Ventur'd our <hi>Souls,</hi> and lost our <hi>Charter</hi> too.</l>
+               <pb n="2" facs="tcp:102478:3"/>
+               <l>And is that all? Come, ben't crest-fall'n, make shift,</l>
+               <l>And bear up, I'le help you at a dead lift;</l>
+               <l>Something may yet be done, though we daren't touch</l>
+               <l>On <hi>Meal-Tub Plots</hi> lest caught i'th' <hi>Bolting-hutch.</hi>
+               </l>
+               <l>How says your Lordship, (for your Honour's free)</l>
+               <l>
+                  <hi>Capital Member</hi> of our Company;</l>
+               <l>And you know well that 'tis out of Fashion,</l>
+               <l>For <hi>Tradesmen</hi> to sink in Desperation;)</l>
+               <l>Methinks, though we broke at State (for Sins,)</l>
+               <l>We may drive our old Trade of <hi>Cony-skins,</hi>
+               </l>
+               <l>And <hi>Kid knapping?</hi> Sell <hi>Brock</hi> and <hi>Dog skin-Muff,</hi>
+               </l>
+               <l>
+                  <hi>And country Captains</hi> Cheat with <hi>Horse-skin-Buff?</hi>
+               </l>
+               <l>We must imploy our Talents, still, devise,</l>
+               <l>A hundred <hi>Prod'gies,</hi> and <hi>Prodigious Lyes;</hi>
+               </l>
+               <l>The Hook of <hi>Popery</hi> won't take small</l>
+               <l>Fish now, (fy on't) The <hi>French</hi> have quite marr'd all,</l>
+               <l>The <hi>Whore of Babylon,</hi> and <hi>Antchrist</hi>
+               </l>
+               <l>He hath ground to powder and spoil'd our Grist;</l>
+               <l>Who would have thought that <hi>Ʋnchristian King</hi>
+               </l>
+               <l>Would stop our Mouths with such a <hi>Christian thing?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But yet we'l sigh, and groan, and shake the head,</l>
+               <l>In time <hi>Rebellion</hi> may be brought to Bed,</l>
+               <l>With good <hi>Midwifery,</hi> and the good Wives aid,</l>
+               <l>To whom such Tales as these must still be said;</l>
+               <l>How a <hi>Child</hi> spoke as soon as born we'll tell;</l>
+               <l>(Perhaps before, to ears that could hear well;)</l>
+               <l>Tell <hi>Nothern-men</hi> how <hi>Six Suns</hi> did appear</l>
+               <l>At once i'th <hi>South;</hi> to <hi>Southern, Eight Moons</hi> there.</l>
+            </lg>
+            <lg>
+               <l>Then for a touch of <hi>Prophecies</hi> we'l say,</l>
+               <l>The Isle O <hi>Brazeel</hi> but the other day</l>
+               <l>Appear'd to a good Master <hi>of a Ship,</hi>
+               </l>
+               <l>Where an <hi>old woman</hi> that gave Death the slip</l>
+               <l>E're since the <hi>Deluge,</hi> told him, that the Time</l>
+               <l>Of the <hi>Saints Government</hi> was now at Prime;</l>
+               <pb n="3" facs="tcp:102478:3"/>
+               <l>Down goes <hi>Baalam, Ashteroth</hi> and <hi>Dagon,</hi>
+               </l>
+               <l>Down goes <hi>Bell,</hi> and then up goes the <hi>Dragon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But now let's gybe the Sail, and catch the Wind,</l>
+               <l>And make a Tack to fetch you up behind.</l>
+               <l>There was a time (they say) since the world stood,</l>
+               <l>You had a <hi>Charter</hi> never to be good.</l>
+            </lg>
+            <lg>
+               <l>Have you forgot your <hi>Routs</hi> and <hi>Ryots,</hi> when</l>
+               <l>You forc't the <hi>best of Kings,</hi> and <hi>best of Men</hi>
+               </l>
+               <l>To fly from's <hi>Royal Palace,</hi> and betake</l>
+               <l>Himself to <hi>Forest-shelter,</hi> and the brake?</l>
+               <l>When the <hi>Divine Magicians</hi> of your <hi>Town</hi>
+               </l>
+               <l>Chang'd you to <hi>Wolves and Dogs</hi> to hunt him down?</l>
+            </lg>
+            <lg>
+               <l>Have you forgot how you the <hi>Queen</hi> did force,</l>
+               <l>And <hi>High-born</hi> Issue to a sad Divorce</l>
+               <l>From their <hi>Royal Father?</hi> Have you forgot</l>
+               <l>How you made th' <hi>Crown and Miter</hi> go to pot?</l>
+               <l>First <hi>Clamour,</hi> then <hi>Petition,</hi> Last you bring</l>
+               <l>
+                  <hi>Rebellion,</hi> a compleat <hi>Sin-Offering:</hi>
+               </l>
+               <l>Say <hi>Obediah,</hi> tell me if you please,</l>
+               <l>Had you a <hi>Charter</hi> for such <hi>Tricks as these?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Once more Beloved; Have you forgot when <hi>Drums</hi>
+               </l>
+               <l>Beat up for <hi>Bankrupt</hi> and <hi>Religious Thrums?</hi>
+               </l>
+               <l>When <hi>Hungry <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>evites,</hi> and <hi>starv'd 'Prentices</hi>
+               </l>
+               <l>Sally'd from their dark <hi>Cells</hi> and <hi>Penthouses,</hi>
+               </l>
+               <l>And like the <hi>Plagues</hi> of <hi>Aegypt</hi> spreads all o'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Some for to stench us, all for to <hi>devour?</hi>
+               </l>
+               <l>Have you forgot how you did Stab the <hi>King</hi>
+               </l>
+               <l>And <hi>Church,</hi> with <hi>Bodkin, Thimble, Spoon</hi> and <hi>Ring,</hi>
+               </l>
+               <l>And like the <hi>Indians</hi> prostitute your selves,</l>
+               <l>For th' <hi>Develish Idol</hi> of your <hi>Cause</hi> and <hi>Elves?</hi>
+               </l>
+               <l>Say <hi>Annanias,</hi> tell me if you please,</l>
+               <l>Had you a <hi>Charter</hi> for such <hi>Tricks</hi> as these?</l>
+               <l>Surely the <hi>Act</hi> of <hi>Amnesty</hi> is spilt</l>
+               <l>On those claim <hi>Pardon,</hi> won't renounce the <hi>Guilt;</hi>
+               </l>
+               <pb facs="tcp:102478:4"/>
+               <l>A <hi>Realm</hi> divided 'gainst it self can't stand,</l>
+               <l>Nor <hi>City,</hi> if by such as You 'twere man'd;</l>
+               <l>In vain are <hi>Oaths</hi> and <hi>Witnesses,</hi> if th' <hi>Shreive</hi>
+               </l>
+               <l>Can pack a <hi>Jury,</hi> that will not <hi>believe:</hi>
+               </l>
+               <l>A <hi>Turk</hi>'s good <hi>Evidence,</hi> 'tis very True,</l>
+               <l>Against a <hi>Christian,</hi> not against a <hi>JEW.</hi>
+               </l>
+               <l>The <hi>Pope</hi> and <hi>Conclave</hi> sure have chang'd their Nests,</l>
+               <l>And took their <hi>Quarters</hi> up within your Breasts;</l>
+               <l>Their High <hi>Prerogatives</hi> to You resign'd,</l>
+               <l>Can <hi>Damn the Innocent,</hi> and <hi>Saint the Fiend;</hi>
+               </l>
+               <l>Or else your <hi>Conscience</hi> and <hi>Religion</hi>
+               </l>
+               <l>Are inspir'd with <hi>Mahomet</hi>'s <hi>Pidgeon,</hi>
+               </l>
+               <l>A R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of <hi>Chequer-work</hi> that's intertext</l>
+               <l>With the worst <hi>Christian</hi> and worst <hi>Jew</hi> mixt,</l>
+               <l>A kind of <hi>circum-uncircumcised</hi> kind,</l>
+               <l>Can Swear the Body, and not Swear the Mind;</l>
+               <l>(As <hi>Senators</hi> (for to get in) <hi>must Swear;</hi>
+               </l>
+               <l>Then keep the <hi>COVENANT</hi> to <hi>Depose the Heir;</hi>)</l>
+               <l>And all this's done by virtue of the <hi>Bull</hi>
+               </l>
+               <l>
+                  <hi>Charta pro Causa,</hi> and a <hi>Tub-Pulpit</hi> full.</l>
+            </lg>
+            <lg>
+               <l>Sons of <hi>Oedipus,</hi> we know you enough,</l>
+               <l>The mark of <hi>Cain</hi> is graven on your <hi>Brow;</hi>
+               </l>
+               <l>Not for the <hi>Churches,</hi> nor for the <hi>Crown-Land,</hi>
+               </l>
+               <l>But for the <hi>Twelve Apostles</hi> 'tis you stand.</l>
+               <l>St. <hi>Paul</hi> for <hi>London,</hi> St. <hi>Peter</hi> for <hi>Rome,</hi>
+               </l>
+               <l>
+                  <hi>Judas</hi> for th' <hi>Suburbs</hi> till the day of <hi>Doom;</hi>
+               </l>
+               <l>'Tis not the first time you have shew'd your <hi>Leige,</hi>
+               </l>
+               <l>How you hate <hi>Idols,</hi> but love <hi>Sacriledge;</hi>
+               </l>
+               <l>'Tis hard to say, to whom we're most in Debt,</l>
+               <l>To the <hi>Jesu,</hi> or to the <hi>Judas-it;</hi>
+               </l>
+               <l>
+                  <hi>Lyons</hi> and <hi>Ʋnicorns</hi> support our <hi>Arms,</hi>
+               </l>
+               <l>But these are th' <hi>Beasts</hi> that do support our <hi>Harms.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:102478:4"/>
+               <l>Now to the <hi>Quo Warranto</hi> we must Tack,</l>
+               <l>Joyn my Lord's <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ennel to the City Pack;</l>
+               <l>Speak, <hi>Joller, Jolly, Jewel, Whig-dog;</hi> Quest,</l>
+               <l>
+                  <hi>Bouncer, Bawler, Blew-lips,</hi> and the rest.</l>
+               <l>O <hi>Divine Charter,</hi> It would burst my heart,</l>
+               <l>If th' <hi>Ark</hi> from <hi>Israel</hi> should thus depart!</l>
+               <l>But don't bring Pleas as vast as th' Book of <hi>Martyr</hi>
+               </l>
+               <l>T'<hi>Obstruct Justice,</hi> and prolong your <hi>Charter;</hi>
+               </l>
+               <l>Speak to th' point good <hi>Brother,</hi> what canst say,</l>
+               <l>To keep this <hi>Charter</hi> ever and for ay?</l>
+               <l>
+                  <hi>Please You my Lord, our</hi> Charter<hi>'s Sacred made</hi>
+               </l>
+               <l>
+                  <hi>By</hi> Grants <hi>so many, none can it invade;</hi>
+               </l>
+               <l>
+                  <hi>Of Twenty</hi> Kings <hi>and</hi> Senats <hi>hath the Seal.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Pope</hi> had more before he did <hi>Rebel</hi>
+               </l>
+               <l>Against the <hi>Law</hi> of <hi>God</hi> and of the <hi>King,</hi>
+               </l>
+               <l>He was <hi>confiscate</hi> for the self-same thing;</l>
+               <l>The <hi>Law's</hi> the Rule of <hi>Peace,</hi> it doth not jar</l>
+               <l>In't self, 't'hath no <hi>Repugnance,</hi> nor <hi>War.</hi>
+               </l>
+               <l>If <hi>Kings</hi> themselves can't give their <hi>Crowns</hi> away,</l>
+               <l>Then <hi>Kings</hi> by <hi>Law</hi> can't <hi>Themselves betray.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Look you <hi>Brother,</hi> here You have Misus'd</l>
+               <l>Your <hi>Charter,</hi> and the <hi>Known Laws abus'd;</hi>
+               </l>
+               <l>
+                  <hi>Ryots</hi> and <hi>Routs,</hi> You that should them suppress,</l>
+               <l>You have <hi>promoted</hi> to a great Excess;</l>
+               <l>Yo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have pick'd <hi>Juries,</hi> pack'd them for your <hi>Cause,</hi>
+               </l>
+               <l>And this destroys the <hi>Fundamental Laws;</hi>
+               </l>
+               <l>You that should <hi>Schism</hi> and <hi>Faction</hi> quell, support</l>
+               <l>
+                  <hi>Ʋnlawful Meetings,</hi> and to them resort;</l>
+               <l>What shall I say of <hi>Oaths?</hi> You <hi>Allegiance</hi> Swear</l>
+               <l>To day, to morrow would <hi>expel the Heir;</hi>
+               </l>
+               <l>VVhose <hi>Crimes</hi> beyond all <hi>Presidents</hi> go,</l>
+               <l>Forfeit their <hi>Chattels,</hi> and their <hi>Charter</hi> too.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:102478:5"/>
+               <l>To this we answer, Let the sinner die,</l>
+               <l>A <hi>Tooth</hi> for a <hi>Tooth,</hi> and <hi>Eye</hi> for <hi>Eye,</hi>
+               </l>
+               <l>Let the <hi>Transgressors of the Law</hi> be lasht,</l>
+               <l>But do not let the <hi>Law</hi> it self be dasht;</l>
+               <l>Things that have <hi>Sanction</hi> of long time, and great</l>
+               <l>
+                  <hi>Authority,</hi> should not be lightly set.</l>
+            </lg>
+            <lg>
+               <l>In days of old, when <hi>Subjects Innocence,</hi>
+               </l>
+               <l>
+                  <hi>Virtue</hi> and <hi>Goodness</hi> did oblige their <hi>Prince;</hi>
+               </l>
+               <l>The greatness of the <hi>Monarchs</hi> mind was such,</l>
+               <l>They thought good <hi>Subjects</hi> could not have too much;</l>
+               <l>But yet they ne're intended publick wrong</l>
+               <l>By <hi>private Act,</hi> that's but an ill-tun'd Song;</l>
+               <l>They us'd their <hi>Charter</hi> meerly to support</l>
+               <l>The <hi>Government,</hi> You to betray the <hi>Fort;</hi>
+               </l>
+               <l>And 'twas not <hi>Sodom</hi>'s sins, But 'twas the <hi>Men</hi>
+               </l>
+               <l>Cast <hi>Town</hi> and <hi>Charter</hi> in the <hi>Sulphrous Fen;</hi>
+               </l>
+               <l>Your <hi>Oracle</hi> hath spoke, and 'tmust be so;</l>
+               <l>
+                  <hi>Carthago delenda est,</hi> down 'tmust go.</l>
+               <l>VVhere now do all our learn'd <hi>Chaldeans</hi> keep?</l>
+               <l>Be our <hi>Soothsayers</hi> and <hi>'Strologers</hi> asleep?</l>
+               <l>I'th' <hi>Blazing Stars Praedictions</hi> was a Flaw;</l>
+            </lg>
+            <lg>
+               <l>You said <hi>Antichrist</hi> for <hi>Anti-Law.</hi>
+               </l>
+               <l>Oft men of <hi>Art</hi> by <hi>Figure</hi> take that Scope</l>
+               <l>To mean the <hi>Charter,</hi> when they nam'd the <hi>Pope;</hi>
+               </l>
+               <l>VVell, there's no help for't now, she must be stript,</l>
+               <l>That's caught a <hi>Whoring,</hi> and <hi>severely Whipt;</hi>
+               </l>
+               <l>The doubt of <hi>Tyrany</hi> late turn'd your Maw;</l>
+               <l>How do You like this <hi>Governing by Law?</hi>
+               </l>
+               <l>VVhen <hi>Lunaticks</hi> are in their <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rantick Fits,</hi>
+               </l>
+               <l>'Tis the best Expedient to reduce their <hi>Wits.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Son of a Slave,</hi> is't not enough to <hi>cheat</hi>
+               </l>
+               <l>
+                  <hi>Fools of their Money,</hi> but you must <hi>defeat</hi>
+               </l>
+               <l>Them of their <hi>Souls?</hi> Duties to their <hi>GOD</hi> and <hi>Prince?</hi>
+               </l>
+               <l>VVas this the <hi>Trade</hi> you're bound to 10 years since?</l>
+               <pb n="7" facs="tcp:102478:5"/>
+               <l>Sell your <hi>Pole-davis,</hi> pack up your <hi>false Ware,</hi>
+               </l>
+               <l>And be content to cheat your <hi>Chap-men</hi> there;</l>
+               <l>You ne're were <hi>'Prentice</hi> to a <hi>States-man</hi> sure!</l>
+               <l>Say some <hi>Great Knave,</hi> (to draw thee to this Lure,)</l>
+               <l>Should stroke thee on the addle head, and cry;</l>
+               <l>
+                  <hi>Come honest</hi> Tom, <hi>(thou know'st better than I)</hi>
+               </l>
+               <l>
+                  <hi>We're like to have sad times you see;</hi>
+               </l>
+               <l>
+                  <hi>Religion groans, and bleeding Liberty;</hi>
+               </l>
+               <l>
+                  <hi>The honest Subject he must be disgrac'd,</hi>
+               </l>
+               <l>
+                  <hi>And every sober Officer displac'd;</hi>
+               </l>
+               <l>
+                  <hi>We can't keep Feast nor <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ast for th'Nations good,</hi>
+               </l>
+               <l>
+                  <hi>But all's misconstru'd and misunderstood;</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Plot <hi>is vanish'd, and the Duke appears;</hi>
+               </l>
+               <l>Tom, <hi>han't we cause for Jealousies and Fears?</hi>
+               </l>
+               <l>Perhaps thou sigh'st then till thy Buttons Crack,</l>
+               <l>And (as thy Soul was tort'ring on the Rack,)</l>
+               <l>From the <hi>vesuvus</hi> of thy <hi>Smoaking Zeal,</hi>
+               </l>
+               <l>Thou bellowst forth this lamentable Peal.</l>
+            </lg>
+            <lg>
+               <l>'<hi>Ah!</hi> My dear Lard! Happy the <hi>Womb</hi> that bore,</l>
+               <l>'An heart so <hi>Noble, Israel</hi> can deplore,</l>
+               <l>'In such sad Times as these when <hi>Woes</hi> us shroud,</l>
+               <l>'That <hi>Moses</hi> will conduct us in a <hi>Cloud!</hi>
+               </l>
+               <l>'VVe are all grieved with Extremities;</l>
+               <l>'And <hi>Pharaoh</hi>'s deaf to all our Plaints and Cries;</l>
+               <l>'Our <hi>Wills</hi> with Bridle, and our Mouths with Bitt</l>
+               <l>'Are held by force, our <hi>Sanhedrims</hi> shan't sit;</l>
+               <l>'We can't stoop down to <hi>Baal;</hi> Saints that have right</l>
+               <l>'To <hi>Judge the Earth</hi> are Ravisht of their might;</l>
+               <l>'Our Hands are Fetter'd, and our Hearts complain,</l>
+               <l>That <hi>Free-born Spirits</hi> should be thrall'd in <hi>Chain;</hi>
+               </l>
+               <l>'These, and ten thousand grievances we have;</l>
+               <l>'But you must save poor <hi>dying Souls</hi> from th'Grave.</l>
+               <l>'Sweet Lord, (But <hi>Orpheus,</hi>) who should take the pain</l>
+               <l>'To bring <hi>Euridice</hi> from <hi>Hell</hi> again?</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:102478:6"/>
+               <l>How, drooping? (quoth my Lord?) hold up good <hi>Tom,</hi>
+               </l>
+               <l>Of my <hi>Spirit</hi> of <hi>Sulphur</hi> take a Dram;</l>
+               <l>Though at a Slight or two, wer'e almost gone,</l>
+               <l>He's a poor Juggler, that han't more tricks than one,</l>
+               <l>I'le call my familiar,—<hi>Presto</hi> appear;</l>
+               <l>He comes, — and whispers in my Ear.</l>
+            </lg>
+            <lg>
+               <l>Courage <hi>Mounsieur,</hi> and do not be dismaid,</l>
+               <l>From <hi>Pluto</hi>'s <hi>Councel-Board,</hi> I'le still bring aid;</l>
+               <l>Stand but your ground, and doubt no overthrow,</l>
+               <l>Whilst there's a Fury in the deep below;</l>
+               <l>Fig for the <hi>Globe</hi> and <hi>Scepter</hi> too to boot;</l>
+               <l>The <hi>Trades-man's</hi> YARD is longer by a Foot;</l>
+               <l>Be Impudent enough, Affronts repeat,</l>
+               <l>Nothing's so brave as th'<hi>Base</hi> to Brow the <hi>Great.</hi>
+               </l>
+               <l>A thousand ways, a thousand VViles we'l try,</l>
+               <l>In <hi>Town</hi> must set the <hi>Stygian</hi> Company,</l>
+               <l>Whose Countrey <hi>Factors</hi> must retail their <hi>Wares</hi>
+               </l>
+               <l>From <hi>House</hi> to <hi>House,</hi> as do the <hi>Scotchmen</hi> theirs,</l>
+            </lg>
+            <lg>
+               <l>Complain of <hi>Taxes</hi> in time of <hi>Wars;</hi>
+               </l>
+               <l>
+                  <hi>In peace</hi> of <hi>Trade,</hi> and <hi>evil Councellors;</hi>
+               </l>
+               <l>Invet'rate <hi>Lechers</hi> when their Lust departs,</l>
+               <l>To keep the Sports up, they must use new Arts,</l>
+            </lg>
+            <lg>
+               <l>We must the <hi>Crowns Prerogative</hi> impair,</l>
+               <l>The <hi>Negative Voice</hi> in th' <hi>Commons</hi> declare,</l>
+               <l>To Counterfeit the COIN 'tis <hi>Treason</hi> made,</l>
+               <l>But not the PRINCES Power to Invade;</l>
+               <l>'Tis Orthodox the longest Day you live,</l>
+               <l>Your Rights t'Encroach, and Rob th'Prerogative,</l>
+               <l>Slight all the <hi>Kings Alliances,</hi> disgrace</l>
+               <l>
+                  <hi>Foreign Embassadors</hi> in every place;</l>
+               <l>Say that <hi>Ben Hadu Otor</hi>'s scarce half man'd</l>
+               <l>(Though wiser far) than all our <hi>Knaves</hi> i'th' Land;</l>
+               <l>We are all <hi>Brethren,</hi> and we now must <hi>Plow</hi>
+               </l>
+               <l>With all our <hi>Heifers, Might</hi> and <hi>Main</hi> must bow;</l>
+               <pb facs="tcp:102478:6"/>
+               <l>Every <hi>new Moon</hi> a <hi>new Parliament</hi> can't</l>
+               <l>Re-mind the <hi>Folk,</hi> that they're the <hi>Government;</hi>
+               </l>
+               <l>We shall have one at last I'me sure, and then</l>
+               <l>We'l make such <hi>Senators</hi> shall make Us <hi>Men:</hi>
+               </l>
+               <l>The <hi>Tide</hi> may turn, <hi>States</hi> have their <hi>Ebb</hi> and <hi>Flow,</hi>
+               </l>
+               <l>And we may catch them when the <hi>Water's low;</hi>
+               </l>
+               <l>
+                  <hi>Children</hi> must be provided for, and <hi>Wars</hi>
+               </l>
+               <l>May hap, (<hi>Crowns</hi> themselves are not free from <hi>cares;</hi>)</l>
+               <l>Then <hi>Money</hi> must be had, our <hi>Silver Coin</hi>
+               </l>
+               <l>Shall buy good part of <hi>Pharoahs Golden Mine;</hi>
+               </l>
+               <l>We are all <hi>Tradesmen</hi> now, and what we give</l>
+               <l>'Tshall be but <hi>Bartring</hi> for <hi>Prerogative;</hi>
+               </l>
+               <l>Fetch the <hi>Addressors</hi> up, and scour the <hi>Coast</hi>
+               </l>
+               <l>Of all the <hi>Tories</hi> and <hi>Abhorring Hoast;</hi>
+               </l>
+               <l>Hang up the <hi>Judges,</hi> and <hi>Grand-Juries</hi> clap</l>
+               <l>Close in <hi>Goals,</hi> that stood i'th' <hi>Royal gap;</hi>
+               </l>
+               <l>Dawn but that day, (quoth <hi>Tom</hi>) and we will Sing,</l>
+               <l>A <hi>Headless Councel,</hi> and a <hi>Headless King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hold quoth my Lord, too fast, now you ramble;</l>
+               <l>(Quoth <hi>Tom</hi>) to keep pace wi'y' I must <hi>Amble.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Bless me my <hi>Stars!</hi> Can such as these men be</l>
+               <l>The <hi>Bulwarks</hi> of our <hi>Church</hi> and <hi>Liberty?</hi>
+               </l>
+               <l>Send them to the <hi>Morocco</hi> in <hi>Exchange</hi>
+               </l>
+               <l>For's <hi>Estriches</hi> and <hi>Lyons,</hi> they're <hi>Beasts</hi> more strange.</l>
+            </lg>
+            <lg>
+               <l>The <hi>French</hi> 'tis said, Fees any one that's rare,</l>
+               <l>Pray Cross the <hi>Waters,</hi> and to him repair;</l>
+               <l>If there be any <hi>Spirits</hi> that excel</l>
+               <l>You in <hi>Sedition,</hi> they must come from <hi>Hell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVe know the <hi>Idol</hi> of your <hi>Charter</hi>'s dear</l>
+               <l>To you, as <hi>Laban</hi>'s <hi>Gods</hi> to <hi>Rahel</hi> were</l>
+               <l>In her <hi>pollutions,</hi> which she slily hid,</l>
+               <l>Because all search there <hi>Modesty</hi> forbid;</l>
+               <l>But your <hi>pollutions</hi> in your <hi>Charter</hi> Reign,</l>
+               <l>And hope it shall your <hi>Wickedness</hi> maintain.</l>
+               <pb facs="tcp:102478:7"/>
+               <l>No Date of <hi>Time,</hi> no <hi>Power</hi> on Earth can give</l>
+               <l>Such <hi>Sanction</hi> as to make <hi>Corruption</hi> live.</l>
+            </lg>
+            <lg>
+               <l>But Master <hi>Ignoramus,</hi> make right view;</l>
+               <l>And sure 'tis not your <hi>Charter</hi> squints, but You;</l>
+               <l>There's no such thing as the <hi>Kings Friends</hi> shall bleed,</l>
+               <l>And's <hi>Mortal Enemies</hi> for <hi>Treason</hi> free'd.</l>
+               <l>You're <hi>fine Fellows</hi> to <hi>Judge</hi> th'Twelve <hi>Tribes;</hi> I fear</l>
+               <l>By <hi>Magna Charta</hi> you will scarce sit there:</l>
+               <l>
+                  <hi>Cabbage</hi> twice boil'd's stark naught, and th' discourse</l>
+               <l>(You know) in <hi>Pulpit</hi> still the same, is worse.</l>
+            </lg>
+            <lg>
+               <l>Consider <hi>Rabby</hi> (You are wise and Sage)</l>
+               <l>
+                  <hi>Rebels</hi> and <hi>Jubilees</hi> thrive but once an age:</l>
+               <l>Alas you know it was but th' other day</l>
+               <l>VVith <hi>Drum</hi> and <hi>Trumpet, Fool</hi> and <hi>Knave,</hi> this <hi>Play</hi>
+               </l>
+               <l>VVas Acted to our <hi>cost</hi> of lives and Ore,</l>
+               <l>Pack up your <hi>Nawls,</hi> we'l be deceiv'd no more:</l>
+            </lg>
+            <lg>
+               <l>Grant some <hi>great Lord</hi> or two did chance to jar,</l>
+               <l>(VVith <hi>Cedars</hi> well as <hi>Shrubs,</hi> such Chances are;)</l>
+               <l>But yet methinks, the <hi>Twigs</hi> should grateful be</l>
+               <l>To th' <hi>Root</hi> that gave them all their Bravery.</l>
+               <l>
+                  <hi>Malice</hi> ne're want's for <hi>Mischief,</hi> and <hi>Revenge</hi>
+               </l>
+               <l>Is dearer much to <hi>Mortals,</hi> than the <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ringe</hi>
+               </l>
+               <l>Of <hi>Heaven;</hi> The <hi>Soul</hi> of <hi>Body</hi> and <hi>State;</hi>
+               </l>
+               <l>And ev'ry Nerve's imploy'd to serve its Hate.</l>
+               <l>The <hi>unning</hi> and the <hi>Crafty</hi> must be bought,</l>
+               <l>The <hi>Young</hi> and <hi>Sportive,</hi> they are easy caught;</l>
+               <l>The <hi>Discontented</hi> must be left alive,</l>
+               <l>VVith hopes of his ambitious <hi>Retrieve;</hi>
+               </l>
+               <l>Sticks of all sorts and sizes it must get,</l>
+               <l>To make the <hi>Flame,</hi> and to increase the heat;</l>
+               <l>And still <hi>Religion</hi> makes the <hi>Oven</hi> red,</l>
+               <l>Or else quite spoild's the <hi>Batch</hi> of <hi>Ginger-bread.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then crawl the <hi>Insects</hi> forth, their Kingdom's come,</l>
+               <l>Still where the <hi>Carrion</hi> is those <hi>Creatures</hi> rome,</l>
+               <pb facs="tcp:102478:7"/>
+               <l>And buzzing up and down the <hi>Town</hi> they cry,</l>
+               <l>For <hi>Liberty,</hi> and for the <hi>Truth</hi> we'l die.</l>
+               <l>To Hang for <hi>Rascals</hi> first, I wish you'd try.</l>
+            </lg>
+            <lg>
+               <l>Hark Villains, hark! Your base <hi>Rebellious Lust,</hi>
+               </l>
+               <l>And our <hi>Loyalties</hi> have the self-same gust;</l>
+               <l>Your <hi>Goats</hi> Bloud cannot itch so much to down</l>
+               <l>With <hi>Both,</hi> as we to prop the <hi>Church</hi> and <hi>Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I saw your <hi>Spells</hi> the <hi>Votes;</hi> 'twas bravely done;</l>
+               <l>As with the Father, you'd deal with the Son.</l>
+               <l>I've seen your <hi>Martyrs, Peters, Scot,</hi> and <hi>Viner,</hi>
+               </l>
+               <l>Sainted in Gold, with <hi>Colledge</hi> the Joyner.</l>
+               <l>I've seen your <hi>Pamphlets, Libels,</hi> Books of Print;</l>
+               <l>Such ne're before came from the <hi>Devil's Mint.</hi>
+               </l>
+               <l>I've seen the <hi>Doctor</hi>'s <hi>Depositions</hi> too;</l>
+               <l>And faith he's done as much as man could do.</l>
+               <l>Won't all this Old-new-found-Art do the work,</l>
+               <l>To pull the <hi>King</hi> down, and set up the <hi>Kirk?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What? No <hi>Cornucopia</hi> to be found?</l>
+               <l>Be all our <hi>Knights-Templers</hi> laid under ground?</l>
+               <l>Are our <hi>Braves</hi> good for nothing, but to lap</l>
+               <l>Th' Infected droppings of a <hi>Silver Tap?</hi>
+               </l>
+               <l>Alass! we want Ingredients; Give</l>
+               <l>Us a <hi>Parliament that shall ever live,</hi>
+               </l>
+               <l>And the <hi>Militia,</hi> we're compleatly Blest;</l>
+               <l>
+                  <hi>CAESAR</hi> do that, and then, <hi>Sir,</hi> do your best.</l>
+            </lg>
+            <lg>
+               <l>VVhat <hi>Snake-hair'd Fury</hi> with <hi>Infernal Brand,</hi>
+               </l>
+               <l>Broke loose from <hi>Hell</hi> thus to <hi>Inflame</hi> the <hi>Land?</hi>
+               </l>
+               <l>Shall we be jealous of our blest Content,</l>
+               <l>Till cracking th'strings, we break the Instrument?</l>
+               <l>Shall our <hi>Arch-Angel</hi> of the <hi>Devil</hi>'s <hi>See</hi>
+               </l>
+               <l>Drown'd Four and twenty of our <hi>Hierarchy;</hi>
+               </l>
+               <l>And by a Whirl-wind from the <hi>Stygian Lake,</hi>
+               </l>
+               <l>A Gloriou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Monarch,</hi> and <hi>Three Kingdoms</hi> wreck?</l>
+               <l>Down <hi>Asmodeus,</hi> down to the Burning Pits,</l>
+               <l>Where <hi>Thy Council of State</hi> in Brimstone sits:</l>
+               <pb facs="tcp:102478:8"/>
+               <l>In that dark Concave let thine Envy range:</l>
+               <l>Changing but <hi>That,</hi> never expect more change.</l>
+            </lg>
+            <lg>
+               <l>Here pity checks my Spleen; and who can tell</l>
+               <l>
+                  <hi>Good Angels</hi> sorrows, when the Train too fell?</l>
+            </lg>
+            <lg>
+               <l>But they were blest with great perfection,</l>
+               <l>And (though seduc'd) the Crime was <hi>All their own,</hi>
+               </l>
+               <l>Beneath the <hi>Firmament</hi> it is not so,</l>
+               <l>Here's Imperfection in the <hi>High</hi> and <hi>Low.</hi>
+               </l>
+               <l>One <hi>Lucifer</hi> on Earth may dangerous prove,</l>
+               <l>More than a <hi>Legion</hi> to <hi>One Saint</hi> above.</l>
+            </lg>
+            <lg>
+               <l>But see! the <hi>Murder'd Martyrs Ghosts</hi> appear!</l>
+               <l>Your <hi>Native Prince</hi> and <hi>Fathers Shades</hi> stand there!</l>
+               <l>Lend <hi>Them</hi> your Eyes, the <hi>Rabble</hi> not your Ear.</l>
+               <l>And what would the mad <hi>Rabble</hi> have? Let's try:</l>
+               <l>And who would ask, but one as mad as <hi>I?</hi>
+               </l>
+               <l>Can the turbulent Wind tell why it blows?</l>
+               <l>Or tumbling Ocean why it Ebbs and Flows?</l>
+               <l>The senceless <hi>Rabble's</hi> but that Dust which flies</l>
+               <l>With every puff of wind into dour eyes:</l>
+               <l>It makes you pur-blind, and defiles your Shoes;</l>
+               <l>Rather to <hi>piss on't</hi> than to <hi>court it</hi> choose.</l>
+            </lg>
+            <lg>
+               <l>I'll dare the <hi>Sun,</hi> which hath survey'd the Earth</l>
+               <l>Ever since <hi>Eve</hi> gave <hi>Cain</hi> and <hi>Abel</hi> Birth;</l>
+               <l>In all his Travels, if he can declare</l>
+               <l>A People Franchis'd as the <hi>English</hi> are?</l>
+               <l>All others <hi>Birth-Right</hi> Bondage is; but <hi>We</hi>
+               </l>
+               <l>Surfeit with <hi>Cates,</hi> and glut with <hi>Liberty.</hi>
+               </l>
+               <l>If <hi>He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ven</hi> should bid a <hi>Subject</hi> to implore</l>
+               <l>VVhat <hi>Bliss</hi> we want, he could not ask for more;</l>
+               <l>Oh the <hi>unhappy State</hi> of <hi>Happiness!</hi>
+               </l>
+               <l>They enjoy more that do enjoy much less;</l>
+               <l>
+                  <hi>Rome</hi> in it's Pomp and Pride could never shew</l>
+               <l>Men of that <hi>bulk</hi> of <hi>Wealth</hi> in <hi>England</hi> flow;</l>
+               <pb facs="tcp:102478:8"/>
+               <l>And every <hi>Cottager</hi> lives frank and free</l>
+               <l>As <hi>Jove,</hi> Here's a perpetual <hi>Jubilee:</hi>
+               </l>
+               <l>Hear one great truth an <hi>English Subject</hi> Sings,</l>
+               <l>We have one <hi>Emperour,</hi> and a <hi>Million Kings.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Celestial Prince,</hi> descended from above,<note place="margin">To th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> KIN<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>With <hi>Goodness,</hi> and the Wisdom of great <hi>Jove;</hi>
+               </l>
+               <l>Hov'ring the <hi>Doves</hi> with thy <hi>Seraphick Wings,</hi>
+               </l>
+               <l>Still Shielding <hi>Church</hi> and <hi>State</hi> from <hi>Serpents</hi> Stings,</l>
+               <l>Accept the <hi>Addresses</hi> of our <hi>Humble praise</hi>
+               </l>
+               <l>'Tis all the <hi>Incense Men</hi> to <hi>God</hi> can praise.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Civil War</hi> three <hi>Kingdoms</hi> did inthrall,</l>
+               <l>You were the <hi>Saviour</hi> that <hi>Redeem'd</hi> us all,</l>
+               <l>And rais'd <hi>miraculously</hi> from their <hi>Graves,</hi>
+               </l>
+               <l>Three <hi>Soul-sunk Nations</hi> that were <hi>Slaves</hi> to <hi>Slaves;</hi>
+               </l>
+               <l>Mean Thanks do mighty favours quite disgrace,</l>
+               <l>But dull <hi>Ingratitude</hi> becomes the base:</l>
+               <l>How Justly may'st thou let thy <hi>Thunder</hi> fly?</l>
+               <l>Both <hi>Gyants</hi> and <hi>Pigmies</hi> doom'd to die.</l>
+               <l>What, will they <hi>War</hi> with <hi>Jove?</hi> in vain, in vain;</l>
+               <l>Whom th' Gods have Crown'd, in spight of <hi>Worms</hi> shall <hi>Reign;</hi>
+               </l>
+               <l>
+                  <hi>Repent</hi> proud Dust before it be too late,</l>
+               <l>Strike Sail; my <hi>Muse</hi> shall be your <hi>Advocate.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Hear great <hi>Apollo, Phoebus</hi> lend thine ear</l>
+               <l>To an <hi>unpolisht Muses</hi> humble Prayer.</l>
+               <l>She lifts no <hi>Phaetontick Palm</hi> on high;</l>
+               <l>Lo, her request is veil'd with modesty;</l>
+               <l>Thou that art goodness <hi>Essence,</hi> Thou that keeps</l>
+               <l>
+                  <hi>Clemency</hi> waking that she never sleeps;</l>
+               <l>Look on the <hi>Errours of Mortality,</hi>
+               </l>
+               <l>With the <hi>Kind Aspect</hi> of your <hi>God-like</hi> Eye.</l>
+               <l>Though they have sin'd (and certainly a Sin</l>
+               <l>To death, had it against a bad <hi>Prince</hi> been,)</l>
+               <pb facs="tcp:102478:9"/>
+               <l>And their <hi>Transgressions</hi> in an high degree,</l>
+               <l>Are aggravated to sin thus against <hi>Thee;</hi>
+               </l>
+               <l>My poor <hi>Muse</hi> begs, (although <hi>their Sins be great,</hi>)</l>
+               <l>That Thou wouldst not <hi>Forget,</hi> to <hi>forget.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And Thou Great <hi>Hero</hi> of loud Fames first rate</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> E</note>(Still partner of your <hi>Royal Brothers</hi> Fate)</l>
+               <l>Who baffle <hi>Mischief,</hi> and her Dart despise,</l>
+               <l>And stand the firmer, for her <hi>Batteries;</hi>
+               </l>
+               <l>VVhilst <hi>Envy</hi> toyls her self quite out of breath,</l>
+               <l>You undisturb'd can smile the <hi>Wretch</hi> to death.</l>
+               <l>
+                  <hi>Malice</hi> is now in a <hi>Consumption</hi> grown;</l>
+               <l>To see her self mistook in <hi>You</hi> alone;</l>
+               <l>Still the more venom that on You they throw,</l>
+               <l>Still You the Taller, and more Lovely grow;</l>
+               <l>Can walk the <hi>Fiery Furnace,</hi> and no <hi>Hair</hi>
+               </l>
+               <l>
+                  <hi>Sing'd,</hi> no <hi>smell of Fire,</hi> no <hi>impair:</hi>
+               </l>
+               <l>Fond men! To hope they can destroy whom <hi>Jove</hi>
+               </l>
+               <l>Preserves by <hi>Wonders</hi> and peculiar <hi>Love:</hi>
+               </l>
+               <l>Never before <hi>Presumptive Heir</hi> did sure,</l>
+               <l>Worse <hi>Wrongs</hi> from Most <hi>Presumptive Men</hi> endure.</l>
+               <l>Well may they <hi>droop their Heads,</hi> and <hi>Necks incline,</hi>
+               </l>
+               <l>As <hi>Tulips Frost-bit</hi> with a <hi>Northern wind;</hi>
+               </l>
+               <l>To <hi>Prudence</hi> still and <hi>Piety</hi> you'r <hi>Just,</hi>
+               </l>
+               <l>And will forgive, whom none will wish to trust.</l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>You of the <hi>Constellation</hi> that maintain</l>
+               <l>Your <hi>Starry Glories</hi> from <hi>Apostate Stain;</hi>
+               </l>
+               <l>You whose <hi>chast Loyaly</hi> for ever stream'd</l>
+               <l>To th' <hi>Royal Lamp of Honour</hi> whence You beam'd,</l>
+               <l>You shall for ever share the <hi>Muses</hi> Praise,</l>
+               <l>VVhilst <hi>Helicon</hi> hath <hi>Drops, Apollo Bays.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he</hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>RY</note>Come <hi>Brothers</hi> of the <hi>Minor Stars,</hi> that are</l>
+               <l>No <hi>wandring Planets,</hi> but <hi>fixt</hi> in Your <hi>Sphere;</hi>
+               </l>
+               <pb facs="tcp:102478:9"/>
+               <l>You that have vow'd for to be so True</l>
+               <l>To <hi>Charles,</hi> that to your selves you be so too;</l>
+               <l>(And sure I am your <hi>Oath</hi> will not be broke,</l>
+               <l>You'l bow to <hi>Destiny,</hi> before the <hi>Yoke</hi>)</l>
+               <l>VVe must not praise nor thank our selves, that's vain,</l>
+               <l>That were but <hi>Champarty</hi> (You know) in grain;</l>
+               <l>But we'l so <hi>Loyal</hi> and so <hi>Faithful</hi> live,</l>
+               <l>That <hi>Church</hi> and <hi>Crown</hi>'s Fees Us no Thanks shall give.</l>
+            </lg>
+            <lg>
+               <l>And You Brave <hi>Citizens,</hi> so Rich and wise,<note place="margin">To the Comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Counce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Co<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Alderm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>(The Boons of <hi>Heavens,</hi> due to <hi>Loyalties</hi>)</l>
+               <l>
+                  <hi>Heaven</hi> marks them who from <hi>Allegiance</hi> stray,</l>
+               <l>(VVith <hi>Children, Wits,</hi> or <hi>Fortunes</hi> quite awry.)</l>
+               <l>You that hold th'<hi>Rains,</hi> curb the <hi>head strong Jaws</hi>
+               </l>
+               <l>Of <hi>Asses</hi> kickt at <hi>Governours</hi> and <hi>Laws;</hi>
+               </l>
+               <l>You know That <hi>Trade</hi> doth still most profit bring,</l>
+               <l>To them are true to <hi>God,</hi> and to their <hi>King;</hi>
+               </l>
+               <l>Long may You live, and may the <hi>Town</hi> and <hi>Court</hi>
+               </l>
+               <l>Be happy in the prayers of my poor heart;</l>
+               <l>May no <hi>King</hi> want such <hi>Citizens</hi> I pray,</l>
+               <l>Nor <hi>Towns-men Prince,</hi> like him they now enjoy.</l>
+            </lg>
+            <lg>
+               <l>But You that are now of th'new <hi>Livery,</hi>
+                  <note place="margin">Livery m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</note>
+               </l>
+               <l>And <hi>Old Leven,</hi> look for no Thanks from me;</l>
+               <l>Keep to your <hi>Gods;</hi> On damned <hi>Bradshaw</hi> call,</l>
+               <l>Implore the shades of <hi>Ireton</hi> and <hi>Noll;</hi>
+               </l>
+               <l>To come improv'd from <hi>Hell,</hi> and be so good</l>
+               <l>To set crackt men with <hi>Plunder</hi> up, and Bloud;</l>
+               <l>The <hi>Rabble</hi> shall no longer Rule this <hi>Town,</hi>
+               </l>
+               <l>
+                  <hi>Rebellions Charter</hi> now must go down, down:</l>
+               <l>But yet we'l beg the <hi>King</hi> that he would please</l>
+               <l>To give another on good terms as these.</l>
+            </lg>
+            <lg>
+               <l>Countreys o'regrown with <hi>Beasts of Rapine,</hi> be</l>
+               <l>Ty'd to destroy the <hi>common Enemy,</hi>
+               </l>
+               <l>And bound by <hi>Char<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er</hi> yearly to afford</l>
+               <l>So many <hi>Fox</hi> or <hi>Wolf-skins</hi> to the Lord:</l>
+            </lg>
+            <lg>
+               <pb n="16" facs="tcp:102478:10"/>
+               <l>
+                  <hi>London,</hi> once bounded in <hi>Walls,</hi> is now boundless</l>
+               <l>Grown from a <hi>City</hi> to a <hi>Wilderness;</hi>
+               </l>
+               <l>More and worse vermin lurk in 't's Holes and Dens,</l>
+               <l>Than <hi>Wolves</hi> in <hi>Tory-Land,</hi> or <hi>Frogs</hi> in <hi>Pens:</hi>
+               </l>
+               <l>If they renew their <hi>Charter,</hi> may they pay</l>
+               <l>A <hi>Rebels</hi> head for <hi>Quit-rent</hi> every day,</l>
+               <l>And a <hi>Whores Liver,</hi> till the <hi>Town</hi> be found</l>
+               <l>
+                  <hi>Honest,</hi> and (like the <hi>Loyal</hi> Countrey) sound.</l>
+            </lg>
+            <lg>
+               <l>Now we have done, we have not done; what's there?</l>
+               <l>See how the <hi>Mutinous Women</hi> appear!</l>
+               <l>Nip <hi>Insurrections</hi> in the bud; <hi>Drums</hi> beat</l>
+               <l>A parl, and let us with the <hi>Females</hi> treat;</l>
+               <l>VVhat would the <hi>good wives</hi> have? Forbear slaughter!</l>
+               <l>Then quoth the <hi>Amazons,</hi> we'l keep our <hi>Charter;</hi>
+               </l>
+               <l>And thus pleads first a <hi>Mouse-trap makers</hi> VVife;</l>
+               <l>Before we'l loose our <hi>Honour,</hi> we'l loose <hi>Life;</hi>
+               </l>
+               <l>
+                  <hi>Honour</hi> than <hi>Food</hi> or <hi>Rayment's</hi> priz'd more high;</l>
+               <l>For <hi>It</hi> we'l live, and for <hi>It</hi> we will die</l>
+               <l>Farewel <hi>Charter,</hi> Farewel <hi>Gentility.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next comes a bouncing <hi>Butchers Wife</hi> i'th' Van,</l>
+               <l>VVith a <hi>Cow-killing Pole-ax</hi> in her Hand,</l>
+               <l>D'y' think we'l loose our <hi>Charter?</hi> And be stil'd <hi>Fro,</hi>
+               </l>
+               <l>As <hi>Fish-women</hi> be in <hi>Bore-Land,</hi> and well so?</l>
+               <l>Master <hi>Punch</hi> Kills an <hi>Ox,</hi> and Twenty <hi>Sheep</hi>
+               </l>
+               <l>Each week i'th' year, and I the <hi>Stall</hi> do keep;</l>
+               <l>Shall all this <hi>Ploud</hi> (besides a <hi>Tree-mans Wife</hi>)</l>
+               <l>Now loose it's <hi>Honour?</hi> By my <hi>Butchers</hi> life</l>
+               <l>For our <hi>Noble Charter</hi> we will stand and fall,</l>
+               <l>For if we loose our <hi>Arms,</hi> we then loose <hi>all.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then spoke a <hi>Chandlers Wife</hi> with <hi>Ale-stuft-Lungs,</hi>
+               </l>
+               <l>As big as <hi>Tun,</hi> foaming at all her <hi>Eungs;</hi>
+               </l>
+               <pb facs="tcp:102478:10"/>
+               <l>D'ye think I'le sit at <hi>Bar</hi> all day for th' <hi>Fees</hi>
+               </l>
+               <l>I get by <hi>Porters</hi> Penny <hi>Bread</hi> and <hi>Cheese,</hi>
+               </l>
+               <l>And see the <hi>Slaves,</hi> like <hi>Clowns</hi> in <hi>Sussex,</hi> come,</l>
+               <l>And cry, <hi>Dame</hi> where is your <hi>Husband?</hi> at home?</l>
+               <l>Shall <hi>double Drink</hi> place to <hi>Feeling</hi> so give?</l>
+               <l>Shall't be Madam <hi>Creswell,</hi> and not Mis <hi>Keeling?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Quoth Mistress <hi>Fough,</hi> 'twould be a stinking life,</l>
+               <l>If I were not Master <hi>Gold-Finders Wife;</hi>
+               </l>
+               <l>If farewel <hi>Charter,</hi> farewel to all</l>
+               <l>The <hi>Nobility</hi> of <hi>Pin-makers-Hall,</hi>
+               </l>
+               <l>Stand to your <hi>Arms</hi> both <hi>Life</hi> and <hi>Limb</hi> shall go</l>
+               <l>To save our <hi>Honour,</hi> and our <hi>Charter</hi> too.</l>
+            </lg>
+            <lg>
+               <l>A <hi>Reverend Matron,</hi> in whose <hi>Loyal Face,</hi>
+               </l>
+               <l>VVas every touch of <hi>Modesty</hi> and <hi>Grace,</hi>
+               </l>
+               <l>Hearing their <hi>Grievances,</hi> ventur'd the <hi>Crowd,</hi>
+               </l>
+               <l>And thus she spake, and thus their Ears they bow'd;</l>
+               <l>'Dear Sisters of the <hi>Livery,</hi> appease</l>
+               <l>'The boisterous bellows of your <hi>passions</hi> cease;</l>
+               <l>'You know that oftentimes untimely fears</l>
+               <l>'Unform the <hi>Men,</hi> and them transform to <hi>Hares,</hi>
+               </l>
+               <l>'And <hi>Jealousy's</hi> our <hi>Sexes</hi> cursed <hi>Spell,</hi>
+               </l>
+               <l>'Transforms us <hi>Angels</hi> to the <hi>Hags of Hell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The last old <hi>Charter</hi> which you so deplore,</l>
+               <l>VVas granted to us in the days of <hi>Tore,</hi>
+               </l>
+               <l>And many an odde thing was in't; 'twas done</l>
+               <l>VVhen th' Land with <hi>Popery</hi> was over-run,</l>
+               <l>And now by <hi>Law</hi> 'tis so repugnant found,</l>
+               <l>That th' <hi>Law</hi> it self is in that <hi>Charter</hi> drown'd;</l>
+               <l>But there's another in the <hi>Mint</hi> for You,</l>
+               <l>According to your hearts desire, <hi>New, New;</hi>
+               </l>
+               <l>Not after the old <hi>Superstitious Fashion;</hi>
+               </l>
+               <l>But <hi>New,</hi> according to the <hi>Reformation:</hi>
+               </l>
+               <pb facs="tcp:102478:11"/>
+               <l>For we that were but <hi>Mistresses</hi> before,</l>
+               <l>Shall now be <hi>Masters, Lords,</hi> and something more;</l>
+               <l>Moreover, 'tis provided, all the <hi>Geese</hi>
+               </l>
+               <l>In <hi>London</hi> shall have Two <hi>Ganders</hi> a piece;</l>
+               <l>
+                  <hi>Double man'd;</hi> And if that be not <hi>Satis,</hi>
+               </l>
+               <l>You shall have your <hi>Boys</hi> on <hi>Sundays Gratis,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>This said, they shout, and made the <hi>Welkin</hi> ring;</l>
+               <l>Cry'd, <hi>Damn th'old-Charter,</hi> and <hi>God save the KING.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102478:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
